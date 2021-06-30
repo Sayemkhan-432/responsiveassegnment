@@ -1,0 +1,276 @@
+
+
+/* benner_aria */
+
+.benner_aria{
+    background: #f9f9ff;
+}
+
+a.navbar-brand {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+span i {
+    font-size: 30px;
+    color: #76a0fe;
+
+}
+
+.benner_aria_text {
+    margin-top: 160px;
+}
+
+.benner_aria_text h5 {
+    color: #38495d;
+}
+
+.benner_aria_text h2 {
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+.benner_aria_text p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.button {
+    border: 1px solid #8392ff;
+    color: white;
+    background: #8392ff;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+/* about me */
+
+.abtoutme_text.mt-5.ml-5 {
+    margin-left: 95px;
+}
+
+.abtoutme_text.mt-5.ml-5 h2 {
+    margin-top: 20px;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.counter{
+    background: #8392ff ;
+}
+
+/* start user */
+
+.star_using{
+
+    background: #f9f9ff;
+    padding-bottom: 20px;
+}
+
+
+
+
+.start_text.text-center h2 {
+    font-size: 38px;
+}
+
+.start_text.text-center p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/* econome */
+
+
+.economy_item.card.text-center.p-4.mt-3 p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #808080;
+}
+
+.economy_item.card.text-center.p-4.mt-3.shadow h2 {
+    background: #6762;
+    border-radius: 50%;
+    height: 50%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    line-height: 103px;
+    margin-top: -9px;
+    margin-bottom: 10px;
+}
+
+/* testmonial section */
+
+.testmonial_item {
+    margin-top: 90px;
+}
+
+.testmonial_item .card img {
+    width: 146px;
+    margin-top: -60px;
+    margin-left: 15px;
+    height: auto;
+}
+
+.testmonial_item .card-body {
+    margin-left: 0px;
+    margin-top: -9px;
+   
+}
+
+.testmonial_item h3.card-title {
+    font-size: 24px;
+}
+
+.testmonial_item h4.card-subtitle {
+    font-size: 21px;
+}
+
+.testmonial_item p.card-text {
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+
+/* contact_section */
+
+
+.heder_content.text-center.mt-5 h5 {
+    font-weight: 400;
+}
+
+h3.text-center.py-4 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.contact_section{
+
+    background: #f9f9ff;
+    padding: ;
+}
+
+
+.contact_button {
+    border: 1px solid #17a2b8;
+    display: inline;
+    width: 130px;
+    background: #17a2b8;
+    margin: auto;
+    margin-top: 20px;
+    color: white;
+}
+
+
+.contact_section_content {
+    margin-top: 90px;
+    margin-left: 20px;
+}
+
+.contact_section_content p {
+  
+    font-weight: 500;
+}
+
+.footer p{
+    color: white;
+    background: #04091e;
+    padding: 25px;
+}
+
+
+
+
+@media(max-width:992px){
+
+    /* .abtoutme_text h2 {
+        margin-top: 17px;
+        font-size: 29px;
+        margin-bottom: 16px;
+    } */
+
+    .abtoutme_text  h2 {
+        margin-top: 20px;
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .abtoutme_text p {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        font-size: 12px;
+    }
+}
+@media(max-width:7770px){
+
+    .benner_aria_text h2 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+
+    .benner_aria_text p {
+        margin-top: 18px;
+        margin-bottom: 16px;
+        font-size: 12px;
+    }
+
+    .button {
+        font-size: 16px;
+        margin-top: 12px;
+    }
+
+    .mw-100 {
+        max-width: 100%!important;
+        margin-left: 30px;
+        height: 380px;
+    }
+
+
+    .benner_aria_text {
+        margin-top: 75px;
+    }
+
+    
+
+    .img_div {
+        margin-top: 15px;
+    }
+
+    .img-thumbnail {
+        /* padding: .25rem;
+        background-color: #fff;
+        border: 1px solid #dee2e6;
+        border-radius: .25rem;
+        max-width: 100%; */
+        height: 314px;
+    }
+
+    h6 {
+        font-size: 14px;
+    }
+
+    .abtoutme_text.mt-5.ml-5 h2 {
+        margin-top: 12px;
+        font-size: 19px;
+        margin-bottom: 12px;
+    }
+
+    .abtoutme_text p {
+      
+        font-size: 10px;
+    }
+
+    .button {
+        /* border: 1px solid #8392ff;
+        color: white;
+        background: #8392ff; */
+        font-size: 18px;
+        margin-top: 12px;
+    }
+
+
+
+}
+
